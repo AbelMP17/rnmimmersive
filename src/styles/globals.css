@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tipografía y color base */
+:root { color-scheme: dark; }
+html { scroll-behavior: smooth; }
+body { @apply bg-black text-white antialiased; }
+
+.container-responsive { @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8; }
+.section { @apply py-5 sm:py-8; }
+.card { @apply bg-zinc-900/60 backdrop-blur rounded-2xl border border-zinc-800 hover:shadow-glow transition; }
