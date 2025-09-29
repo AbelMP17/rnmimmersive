@@ -7,14 +7,14 @@ import { useNavigate } from "react-router-dom";
 
 // Lista de texturas de planetas (guárdalas en /public/textures/)
 const planetTextures = [
-  "/textures/2k_earth_clouds.jpg",
-  "/textures/2k_earth_daymap.jpg",
-  "/textures/2k_earth_nightmap.jpg",
-  "/textures/2k_jupiter.jpg",
-  "/textures/2k_makemake_fictional.jpg",
-  "/textures/2k_mars.jpg",
-  "/textures/2k_mercury.jpg",
-  "/textures/2k_neptune.jpg",
+  "/textures/2k_earth_clouds.webp",
+  "/textures/2k_earth_daymap.webp",
+  "/textures/2k_earth_nightmap.webp",
+  "/textures/2k_jupiter.webp",
+  "/textures/2k_makemake_fictional.webp",
+  "/textures/2k_mars.webp",
+  "/textures/2k_mercury.webp",
+  "/textures/2k_neptune.webp",
 ];
 
 // Punto individual que representa una ubicación

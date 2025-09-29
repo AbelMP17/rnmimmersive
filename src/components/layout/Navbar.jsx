@@ -25,7 +25,7 @@ export default function Navbar() {
           to="/"
           className="flex justify-center items-center text-portal-400 font-extrabold text-lg tracking-tight transition-all duration-300 hover:text-portal-300 hover:scale-105"
         >
-          <img src="/assets/logo.png" className="max-w-12"></img> R&amp;M
+          <img src="/assets/logo.webp" className="max-w-12"></img> R&amp;M
           Immersive
         </Link>
 
@@ -67,7 +67,7 @@ export default function Navbar() {
             }`}
           >
             <img
-              src="/assets/portal-open.png"
+              src="/assets/portal-open.webp"
               alt="Portal abierto"
               className="absolute inset-0 w-full h-full object-contain"
             />
