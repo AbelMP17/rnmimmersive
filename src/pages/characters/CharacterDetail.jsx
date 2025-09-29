@@ -35,7 +35,7 @@ export default function CharacterDetail() {
     gender: c.gender,
     image: c.image,
     description: `${c.name} es un personaje ${c.species} (${c.status}).`,
-    url: `https://tudominio.dev/characters/${c.id}`,
+    url: `https://rnm3d.vercel.app/characters/${c.id}`,
     sameAs: [],
   };
 

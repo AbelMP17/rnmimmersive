@@ -34,7 +34,7 @@ export default function EpisodeDetail() {
     name: ep.name,
     episodeNumber: ep.episode,
     datePublished: ep.air_date,
-    url: `https://ricknmorty.vercel.app/episodes/${ep.id}`,
+    url: `https://rnm3d.vercel.app/episodes/${ep.id}`,
   };
 
   return (

@@ -34,7 +34,7 @@ export default function LocationDetail() {
     "@type": "Place",
     name: loc.name,
     description: `Tipo: ${loc.type}, Dimensión: ${loc.dimension}`,
-    url: `https://tudominio.dev/locations/${loc.id}`,
+    url: `https://rnm3d.vercel.app/locations/${loc.id}`,
   };
 
   return (

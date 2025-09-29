@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ricknmorty.vercel.app/</loc></url>
-  <url><loc>https://ricknmorty.vercel.app/characters</loc></url>
-  <url><loc>https://ricknmorty.vercel.app/episodes</loc></url>
-  <url><loc>https://ricknmorty.vercel.app/locations</loc></url>
+  <url><loc>https://rnm3d.vercel.app/</loc></url>
+  <url><loc>https://rnm3d.vercel.app/characters</loc></url>
+  <url><loc>https://rnm3d.vercel.app/episodes</loc></url>
+  <url><loc>https://rnm3d.vercel.app/locations</loc></url>
 </urlset>
