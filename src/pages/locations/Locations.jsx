@@ -49,7 +49,7 @@ export default function Locations() {
         </div>
 
         <div ref={sentinelRef} className="h-10" />
-        {loading && <p className="mt-6 text-center text-zinc-400">Cargando...</p>}
+        {loading && <img src="/assets/portal-open.webp" alt="Cargando" className='max-w-[100px] animate-spin' />}
       </section>
     </>
   )

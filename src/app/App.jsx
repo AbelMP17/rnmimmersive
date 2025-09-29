@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div className="min-h-screen flex flex-col">
       <Navbar />
-      <Suspense fallback={<div className="container-responsive py-16">Cargando...</div>}>
+      <Suspense fallback={<div className="container-responsive py-16"><img src="/assets/portal-open.webp" alt="Cargando" className='max-w-[100px] animate-spin' /></div>}>
         <Router />
       </Suspense>
       <Footer />

@@ -127,7 +127,7 @@ export default function Characters() {
 
         <div ref={sentinelRef} className="h-10" />
         {loading && (
-          <p className="mt-6 text-center text-zinc-400">Cargando...</p>
+          <img src="/assets/portal-open.webp" alt="Cargando" className='max-w-[100px] animate-spin' />
         )}
         {!loading && !info?.next && items.length > 0 && (
           <p className="mt-6 text-center text-zinc-500">
